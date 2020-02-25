@@ -7,136 +7,135 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		27D18B101026D0A478ED3920 /* Pods_Combine.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B084534AF3E96177665FAAA0 /* Pods_Combine.framework */; };
-		2FDC3EB723F7B1CA00C1837B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FDC3EB623F7B1CA00C1837B /* AppDelegate.swift */; };
-		2FDC3EB923F7B1CA00C1837B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FDC3EB823F7B1CA00C1837B /* SceneDelegate.swift */; };
-		2FDC3EBB23F7B1CA00C1837B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FDC3EBA23F7B1CA00C1837B /* ContentView.swift */; };
-		2FDC3EBD23F7B1CD00C1837B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FDC3EBC23F7B1CD00C1837B /* Assets.xcassets */; };
-		2FDC3EC023F7B1CD00C1837B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FDC3EBF23F7B1CD00C1837B /* Preview Assets.xcassets */; };
-		2FDC3EC323F7B1CD00C1837B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FDC3EC123F7B1CD00C1837B /* LaunchScreen.storyboard */; };
+		1B91D5DEF003062845961276 /* Pods_Kombine.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CF4AC12C391CD3BDE668FE5E /* Pods_Kombine.framework */; };
+		2F73D332240539F700157EEA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F73D331240539F700157EEA /* AppDelegate.swift */; };
+		2F73D334240539F700157EEA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F73D333240539F700157EEA /* SceneDelegate.swift */; };
+		2F73D336240539F700157EEA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F73D335240539F700157EEA /* ContentView.swift */; };
+		2F73D338240539F800157EEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F73D337240539F800157EEA /* Assets.xcassets */; };
+		2F73D33B240539F800157EEA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F73D33A240539F800157EEA /* Preview Assets.xcassets */; };
+		2F73D33E240539F800157EEA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F73D33C240539F800157EEA /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2FDC3EB323F7B1CA00C1837B /* Combine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Combine.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		2FDC3EB623F7B1CA00C1837B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		2FDC3EB823F7B1CA00C1837B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		2FDC3EBA23F7B1CA00C1837B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		2FDC3EBC23F7B1CD00C1837B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		2FDC3EBF23F7B1CD00C1837B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		2FDC3EC223F7B1CD00C1837B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		2FDC3EC423F7B1CD00C1837B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A4D7CD681ED5FCB6AA8EFFC0 /* Pods-Combine.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Combine.debug.xcconfig"; path = "Target Support Files/Pods-Combine/Pods-Combine.debug.xcconfig"; sourceTree = "<group>"; };
-		B084534AF3E96177665FAAA0 /* Pods_Combine.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Combine.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F253DFA554285848BF589DBA /* Pods-Combine.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Combine.release.xcconfig"; path = "Target Support Files/Pods-Combine/Pods-Combine.release.xcconfig"; sourceTree = "<group>"; };
+		1A7A34A5A482EE09C8336CED /* Pods-Kombine.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Kombine.release.xcconfig"; path = "Pods/Target Support Files/Pods-Kombine/Pods-Kombine.release.xcconfig"; sourceTree = "<group>"; };
+		2F73D32E240539F700157EEA /* Kombine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Kombine.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F73D331240539F700157EEA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		2F73D333240539F700157EEA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		2F73D335240539F700157EEA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		2F73D337240539F800157EEA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		2F73D33A240539F800157EEA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2F73D33D240539F800157EEA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		2F73D33F240539F800157EEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B1B6A081D6063ADA0FC43491 /* Pods-Kombine.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Kombine.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Kombine/Pods-Kombine.debug.xcconfig"; sourceTree = "<group>"; };
+		CF4AC12C391CD3BDE668FE5E /* Pods_Kombine.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Kombine.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2FDC3EB023F7B1CA00C1837B /* Frameworks */ = {
+		2F73D32B240539F700157EEA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				27D18B101026D0A478ED3920 /* Pods_Combine.framework in Frameworks */,
+				1B91D5DEF003062845961276 /* Pods_Kombine.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2FDC3EAA23F7B1CA00C1837B = {
+		2F73D325240539F700157EEA = {
 			isa = PBXGroup;
 			children = (
-				2FDC3EB523F7B1CA00C1837B /* Combine */,
-				2FDC3EB423F7B1CA00C1837B /* Products */,
-				5EF2AD63EB609A4429952E7B /* Pods */,
-				E179214B9F65F09287FFE7CE /* Frameworks */,
+				2F73D330240539F700157EEA /* Kombine */,
+				2F73D32F240539F700157EEA /* Products */,
+				86FBC3BE21E6D783B4DE2F42 /* Pods */,
+				6E7A0865685B313806A067B0 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
-		2FDC3EB423F7B1CA00C1837B /* Products */ = {
+		2F73D32F240539F700157EEA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2FDC3EB323F7B1CA00C1837B /* Combine.app */,
+				2F73D32E240539F700157EEA /* Kombine.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		2FDC3EB523F7B1CA00C1837B /* Combine */ = {
+		2F73D330240539F700157EEA /* Kombine */ = {
 			isa = PBXGroup;
 			children = (
-				2FDC3EB623F7B1CA00C1837B /* AppDelegate.swift */,
-				2FDC3EB823F7B1CA00C1837B /* SceneDelegate.swift */,
-				2FDC3EBA23F7B1CA00C1837B /* ContentView.swift */,
-				2FDC3EBC23F7B1CD00C1837B /* Assets.xcassets */,
-				2FDC3EC123F7B1CD00C1837B /* LaunchScreen.storyboard */,
-				2FDC3EC423F7B1CD00C1837B /* Info.plist */,
-				2FDC3EBE23F7B1CD00C1837B /* Preview Content */,
+				2F73D331240539F700157EEA /* AppDelegate.swift */,
+				2F73D333240539F700157EEA /* SceneDelegate.swift */,
+				2F73D335240539F700157EEA /* ContentView.swift */,
+				2F73D337240539F800157EEA /* Assets.xcassets */,
+				2F73D33C240539F800157EEA /* LaunchScreen.storyboard */,
+				2F73D33F240539F800157EEA /* Info.plist */,
+				2F73D339240539F800157EEA /* Preview Content */,
 			);
-			path = Combine;
+			path = Kombine;
 			sourceTree = "<group>";
 		};
-		2FDC3EBE23F7B1CD00C1837B /* Preview Content */ = {
+		2F73D339240539F800157EEA /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				2FDC3EBF23F7B1CD00C1837B /* Preview Assets.xcassets */,
+				2F73D33A240539F800157EEA /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		5EF2AD63EB609A4429952E7B /* Pods */ = {
+		6E7A0865685B313806A067B0 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				A4D7CD681ED5FCB6AA8EFFC0 /* Pods-Combine.debug.xcconfig */,
-				F253DFA554285848BF589DBA /* Pods-Combine.release.xcconfig */,
-			);
-			name = Pods;
-			path = Pods;
-			sourceTree = "<group>";
-		};
-		E179214B9F65F09287FFE7CE /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				B084534AF3E96177665FAAA0 /* Pods_Combine.framework */,
+				CF4AC12C391CD3BDE668FE5E /* Pods_Kombine.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		86FBC3BE21E6D783B4DE2F42 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B1B6A081D6063ADA0FC43491 /* Pods-Kombine.debug.xcconfig */,
+				1A7A34A5A482EE09C8336CED /* Pods-Kombine.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2FDC3EB223F7B1CA00C1837B /* Combine */ = {
+		2F73D32D240539F700157EEA /* Kombine */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2FDC3EC723F7B1CD00C1837B /* Build configuration list for PBXNativeTarget "Combine" */;
+			buildConfigurationList = 2F73D342240539F800157EEA /* Build configuration list for PBXNativeTarget "Kombine" */;
 			buildPhases = (
-				3945E03E8BE890043A8F1F06 /* [CP] Check Pods Manifest.lock */,
-				2FDC3EAF23F7B1CA00C1837B /* Sources */,
-				2FDC3EB023F7B1CA00C1837B /* Frameworks */,
-				2FDC3EB123F7B1CA00C1837B /* Resources */,
+				A596DAC100125F111499C983 /* [CP] Check Pods Manifest.lock */,
+				2F73D32A240539F700157EEA /* Sources */,
+				2F73D32B240539F700157EEA /* Frameworks */,
+				2F73D32C240539F700157EEA /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Combine;
-			productName = Combine;
-			productReference = 2FDC3EB323F7B1CA00C1837B /* Combine.app */;
+			name = Kombine;
+			productName = Kombine;
+			productReference = 2F73D32E240539F700157EEA /* Kombine.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		2FDC3EAB23F7B1CA00C1837B /* Project object */ = {
+		2F73D326240539F700157EEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1130;
 				LastUpgradeCheck = 1130;
 				ORGANIZATIONNAME = "정승욱";
 				TargetAttributes = {
-					2FDC3EB223F7B1CA00C1837B = {
+					2F73D32D240539F700157EEA = {
 						CreatedOnToolsVersion = 11.3.1;
 					};
 				};
 			};
-			buildConfigurationList = 2FDC3EAE23F7B1CA00C1837B /* Build configuration list for PBXProject "Combine" */;
+			buildConfigurationList = 2F73D329240539F700157EEA /* Build configuration list for PBXProject "Kombine" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -144,31 +143,31 @@
 				en,
 				Base,
 			);
-			mainGroup = 2FDC3EAA23F7B1CA00C1837B;
-			productRefGroup = 2FDC3EB423F7B1CA00C1837B /* Products */;
+			mainGroup = 2F73D325240539F700157EEA;
+			productRefGroup = 2F73D32F240539F700157EEA /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2FDC3EB223F7B1CA00C1837B /* Combine */,
+				2F73D32D240539F700157EEA /* Kombine */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		2FDC3EB123F7B1CA00C1837B /* Resources */ = {
+		2F73D32C240539F700157EEA /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2FDC3EC323F7B1CD00C1837B /* LaunchScreen.storyboard in Resources */,
-				2FDC3EC023F7B1CD00C1837B /* Preview Assets.xcassets in Resources */,
-				2FDC3EBD23F7B1CD00C1837B /* Assets.xcassets in Resources */,
+				2F73D33E240539F800157EEA /* LaunchScreen.storyboard in Resources */,
+				2F73D33B240539F800157EEA /* Preview Assets.xcassets in Resources */,
+				2F73D338240539F800157EEA /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		3945E03E8BE890043A8F1F06 /* [CP] Check Pods Manifest.lock */ = {
+		A596DAC100125F111499C983 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -183,7 +182,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Combine-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-Kombine-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -193,23 +192,23 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		2FDC3EAF23F7B1CA00C1837B /* Sources */ = {
+		2F73D32A240539F700157EEA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2FDC3EB723F7B1CA00C1837B /* AppDelegate.swift in Sources */,
-				2FDC3EB923F7B1CA00C1837B /* SceneDelegate.swift in Sources */,
-				2FDC3EBB23F7B1CA00C1837B /* ContentView.swift in Sources */,
+				2F73D332240539F700157EEA /* AppDelegate.swift in Sources */,
+				2F73D334240539F700157EEA /* SceneDelegate.swift in Sources */,
+				2F73D336240539F700157EEA /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		2FDC3EC123F7B1CD00C1837B /* LaunchScreen.storyboard */ = {
+		2F73D33C240539F800157EEA /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				2FDC3EC223F7B1CD00C1837B /* Base */,
+				2F73D33D240539F800157EEA /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -217,7 +216,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		2FDC3EC523F7B1CD00C1837B /* Debug */ = {
+		2F73D340240539F800157EEA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -277,7 +276,7 @@
 			};
 			name = Debug;
 		};
-		2FDC3EC623F7B1CD00C1837B /* Release */ = {
+		2F73D341240539F800157EEA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -331,42 +330,42 @@
 			};
 			name = Release;
 		};
-		2FDC3EC823F7B1CD00C1837B /* Debug */ = {
+		2F73D343240539F800157EEA /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A4D7CD681ED5FCB6AA8EFFC0 /* Pods-Combine.debug.xcconfig */;
+			baseConfigurationReference = B1B6A081D6063ADA0FC43491 /* Pods-Kombine.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"Combine/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Kombine/Preview Content\"";
 				DEVELOPMENT_TEAM = 94R4GZ63X7;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = Combine/Info.plist;
+				INFOPLIST_FILE = Kombine/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.sqoo.Combine;
+				PRODUCT_BUNDLE_IDENTIFIER = com.slkj.Kombine;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		2FDC3EC923F7B1CD00C1837B /* Release */ = {
+		2F73D344240539F800157EEA /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F253DFA554285848BF589DBA /* Pods-Combine.release.xcconfig */;
+			baseConfigurationReference = 1A7A34A5A482EE09C8336CED /* Pods-Kombine.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"Combine/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Kombine/Preview Content\"";
 				DEVELOPMENT_TEAM = 94R4GZ63X7;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = Combine/Info.plist;
+				INFOPLIST_FILE = Kombine/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.sqoo.Combine;
+				PRODUCT_BUNDLE_IDENTIFIER = com.slkj.Kombine;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -376,25 +375,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2FDC3EAE23F7B1CA00C1837B /* Build configuration list for PBXProject "Combine" */ = {
+		2F73D329240539F700157EEA /* Build configuration list for PBXProject "Kombine" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2FDC3EC523F7B1CD00C1837B /* Debug */,
-				2FDC3EC623F7B1CD00C1837B /* Release */,
+				2F73D340240539F800157EEA /* Debug */,
+				2F73D341240539F800157EEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2FDC3EC723F7B1CD00C1837B /* Build configuration list for PBXNativeTarget "Combine" */ = {
+		2F73D342240539F800157EEA /* Build configuration list for PBXNativeTarget "Kombine" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2FDC3EC823F7B1CD00C1837B /* Debug */,
-				2FDC3EC923F7B1CD00C1837B /* Release */,
+				2F73D343240539F800157EEA /* Debug */,
+				2F73D344240539F800157EEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 2FDC3EAB23F7B1CA00C1837B /* Project object */;
+	rootObject = 2F73D326240539F700157EEA /* Project object */;
 }

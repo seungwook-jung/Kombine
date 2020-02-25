@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Combine
+//  Kombine
 //
-//  Created by seungwook-jung on 2020/02/15.
+//  Created by seungwook-jung on 2020/02/25.
 //  Copyright © 2020 정승욱. All rights reserved.
 //
 
